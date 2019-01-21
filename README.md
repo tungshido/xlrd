@@ -38,7 +38,7 @@ The package itself is pure Python with no dependencies on modules or packages ou
 *   Handling Excel's date problems, including the Windows / Macintosh four-year differential.
 *   Providing access to named constants and named groups of cells (from version 0.6.0)
 *   Providing access to "visual" information: font, "number format", background, border, alignment and protection for cells, height/width etc for rows/columns (from version 0.6.1)
-
+**Qickstar**
 **Quick start**:
 
 ```python
